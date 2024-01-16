@@ -1,6 +1,6 @@
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohitjaiswal28%2FCODSOFTJULY&psig=AOvVaw2hi_xEVavAqchS26cDy5QR&ust=1705519389682000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiZqoLR4oMDFQAAAAAdAAAAABAD" width="250px" height="80px" alt="code.png">
 
-<h2> CODSOFT INTERNSHIP</br>PY-PROGRAMMING-DEC23 </h2>
+<h2> CODSOFT INTERNSHIP</br>DATA SCIENCE-JAN24 </h2>
 
 </br>
 
