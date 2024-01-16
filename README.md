@@ -37,7 +37,7 @@ imbalance issues, and split the dataset into training and testing sets.
 
 - SCREENSHOT
 
-<img src="https://drive.google.com/file/d/1vT6MyuAEZ8VM4ODVilJFEANabEBTC_NX/view?usp=drive_link" width="500px" height="350px" alt="code.png">
+<img src="https://drive.google.com/file/d/1vT6MyuAEZ8VM4ODVilJFEANabEBTC_NX/view?usp=drive_link" width="500px" height="350px" alt="CODSOFT TASK 1.png">
 
 </br>
 
