@@ -19,8 +19,6 @@
 
 - Credit Card Fraud detection
 
-```py
-
 Tasks Performed:
 
 -  Build a machine learning model to identify fraudulent credit card
@@ -33,11 +31,10 @@ imbalance issues, and split the dataset into training and testing sets.
 
 - Evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or under sampling for improving results.
 
-```
 
 - SCREENSHOT
 
-<img src="https://drive.google.com/file/d/1vT6MyuAEZ8VM4ODVilJFEANabEBTC_NX/view?usp=drive_link" width="500px" height="350px" alt="CODSOFT TASK 1.png">
+<img src="https://1drv.ms/i/c/623a6a72e6cf13a4/EWWvwyrn2QBHuQ1KhnMJPNgB4rT8N7vkmEa0OE2wnpldcw?e=Zh4Z5S" width="500px" height="350px" alt="code.png">
 
 </br>
 
