@@ -6,35 +6,38 @@
 
 ### Ⓜ️ REQUIREMENTS :
 
-- Python v3.11
+- Jupyter Notebook
 
 ### PLATFORM USED :
 
 - Windows Terminal
 - Visual Studio Code
-- PyCharm
 
 </br>
 
 ### 📝 TASK 1 :
 
-- PASSWORD GENERATOR
+- Credit Card Fraud detection
 
 ```py
 
-A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
+Tasks Performed:
 
-1. User Input: Prompt the user to specify the desired length of the password.
+-  Build a machine learning model to identify fraudulent credit card
+transactions.
 
-2. Generate Password: Use a combination of random characters to generate a password of the specified length.
+- Preprocess and normalize the transaction data, handle class
+imbalance issues, and split the dataset into training and testing sets.
 
-3. Display the Password: Print the generated password on the screen.
+- Trained some classification algorithm, such as logistic regression or random forests, to classify transactions as fraudulent or genuine.
+
+- Evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or under sampling for improving results.
 
 ```
 
 - SCREENSHOT
 
-<img src="https://drive.snehkr.workers.dev/0:/CodSoft/task-01.png" width="500px" height="350px" alt="code.png">
+<img src="https://drive.google.com/file/d/1vT6MyuAEZ8VM4ODVilJFEANabEBTC_NX/view?usp=drive_link" width="500px" height="350px" alt="code.png">
 
 </br>
 
