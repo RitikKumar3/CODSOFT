@@ -34,9 +34,10 @@ imbalance issues, and split the dataset into training and testing sets.
 
 - SCREENSHOT
 
-<img src="https://drive.google.com/file/d/1vT6MyuAEZ8VM4ODVilJFEANabEBTC_NX/view?usp=sharing" width="500px" height="350px" alt="Task 1.png">
+![CODSOFT TASK 1](https://github.com/RitikKumar3/CODSOFT/assets/151728369/2133653a-844e-4c3c-afc8-4760cfcc01a4)
 
 </br>
+
 
 ### 📝 TASK 2 :
 
