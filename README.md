@@ -34,7 +34,7 @@ imbalance issues, and split the dataset into training and testing sets.
 
 - SCREENSHOT
 
-<img src="https://1drv.ms/i/c/623a6a72e6cf13a4/EWWvwyrn2QBHuQ1KhnMJPNgB4rT8N7vkmEa0OE2wnpldcw?e=Zh4Z5S" width="500px" height="350px" alt="code.png">
+<img src="https://docs.google.com/document/d/1cKlRgAUZE3iohic3MyXyb34I9faptH328zmTIdIQcPo/edit?usp=drive_link" width="500px" height="350px" alt="code.png">
 
 </br>
 
