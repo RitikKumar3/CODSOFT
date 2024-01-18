@@ -43,7 +43,7 @@ imbalance issues, and split the dataset into training and testing sets.
 ### 📝 TASK 2 :
 
 - Iris Flower Classification
-- 
+ 
 Tasks Performed:
 
 - The Iris flower dataset consists of three species: setosa, versicolor,
@@ -71,7 +71,7 @@ classification tasks.
 ### 📝 TASK 3 :
 
 - Titanic Survival Prediction
-- 
+ 
 Tasks Performed:
 
 Description:
