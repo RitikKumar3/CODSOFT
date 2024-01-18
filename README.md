@@ -1,4 +1,5 @@
-<img src="https://drive.snehkr.workers.dev/0:/CodSoft/logo.png" width="250px" height="80px" alt="code.png">
+![logo](https://github.com/RitikKumar3/CODSOFT/assets/151728369/a2a77dbe-4ca6-4265-8d8b-31c004da15d4)
+
 
 <h2> CODSOFT INTERNSHIP</br>DATA SCIENCE-JAN24 </h2>
 
