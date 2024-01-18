@@ -33,7 +33,7 @@ imbalance issues, and split the dataset into training and testing sets.
 
 
 - SCREENSHOT
-- 
+ 
 ![Screenshot 2024-01-18 142047](https://github.com/RitikKumar3/CODSOFT/assets/151728369/63c6df32-4be6-459b-bc8e-684b10905927)
 
 
@@ -48,14 +48,16 @@ imbalance issues, and split the dataset into training and testing sets.
 and virginica. These species can be distinguished based on their
 measurements. Now, imagine that we have the measurements
 of Iris flowers categorized by their respective species.
+
 - Our objective is to train a machine learning model that can learn from
 these measurements and accurately classify the Iris flowers into
 their respective species.
+
 - We use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory
 classification tasks.
-```
+
 
 - SCREENSHOT
 
@@ -90,7 +92,6 @@ Stractegic Plan of Action:
 - Models
 - Project Outcomes & Conclusion
 
-```
 
 - SCREENSHOT
 
