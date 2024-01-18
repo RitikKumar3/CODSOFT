@@ -103,6 +103,9 @@ Stractegic Plan of Action:
 
 </br>
 
+### License
+This project is open source and available under the Apache License 2.0.
+
 ### [+] Find me on :
 
 <a href="https://telegram.me/Rkch38" target="_blank"><img src="https://img.shields.io/badge/Messenger-Rkch38-blue?style=for-the-badge&logo=messenger"></a>
